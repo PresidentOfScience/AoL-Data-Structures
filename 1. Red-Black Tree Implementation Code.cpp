@@ -1,13 +1,3 @@
-//	Anggota kelompok:
-//	1. 2602092150 - Fendy Wijaya
-//	2. 2602093802 - Wilbert Yang
-//	3. 2602095852 - Vincent Owen Bun
-//	4. 2602100606 - Trinata Suryawan
-//	5. 2602125363 - Bernard Owens Wiladjaja
-//	6. 2602196519 - David
-
-//			Red-Black Tree
-
 #include <stdio.h>
 #include <stdlib.h>
 
